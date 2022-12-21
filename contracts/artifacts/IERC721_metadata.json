@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					}
+				],
+				"name": "safeMint",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/IERC721.sol": "IERC721"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/IERC721.sol": {
+			"keccak256": "0x3ae2f6f6c05b61f6f793d8c04985e29014478287c9b9f51f96881a45cd692967",
+			"urls": [
+				"bzz-raw://ba07490b35d05a3ada61def6de8e1a86740ceb55a9b2768925a121c858366e30",
+				"dweb:/ipfs/QmVV6xgbEf39sPZ1qnqUmfPLCqp163dvuAZwfpuLF53VCr"
+			]
+		}
+	},
+	"version": 1
+}
